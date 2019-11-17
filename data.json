@@ -1,0 +1,11 @@
+{
+  "tiendas": [
+    {
+      "nombre": "1",
+      "ciudad": "1",
+      "empleados": [],
+      "productos": []
+    }
+  ],
+  "clientes": []
+}
