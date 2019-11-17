@@ -24,7 +24,7 @@ import org.xml.sax.helpers.XMLReaderFactory;
 
 /**
  *
- * @author Hemihundias
+ * @author Jose Miguel
  */
 public class MenuGestionPrincipal {
     static Empresa empresa = new Empresa();
