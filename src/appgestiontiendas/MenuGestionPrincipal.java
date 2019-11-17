@@ -28,8 +28,6 @@ import org.xml.sax.helpers.XMLReaderFactory;
  */
 public class MenuGestionPrincipal {
     static Empresa empresa = new Empresa();
-    //static List<Tenda> tendas = new ArrayList();
-    //static List<Cliente> clientes = new ArrayList(); 
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
