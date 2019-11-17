@@ -14,8 +14,8 @@ public class Titular {
     public Titular(){
         this.titulo = new String("");
     }
-    public Titular(String _titulo){
-        this.titulo = _titulo;
+    public Titular(String titulo1){
+        this.titulo = titulo1;
     }
 
     public String getTitular() {
